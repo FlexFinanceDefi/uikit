@@ -2267,7 +2267,7 @@ var links = [
     {
         label: "Certik Audit (In-Progress)",
         icon: "ShieldIcon",
-        href: "https://twitter.com/flexfinance/status/1367218225310818308",
+        href: "https://twitter.com/flexfinanceapp/status/1367218225310818308",
         target: "_blank",
     },
     {
@@ -2364,12 +2364,12 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        href: "https://t.me/FlexFinance",
+        href: "https://t.me/flexfinanceapp",
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/flexfinance",
+        href: "https://twitter.com/flexfinanceapp",
     },
 ];
 var MENU_HEIGHT = 64;
